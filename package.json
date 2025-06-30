@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "verifyPurchase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puree46058/in-app-purchase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/puree46058/in-app-purchase/issues"
+  },
+  "homepage": "https://github.com/puree46058/in-app-purchase#readme",
+  "dependencies": {
+    "google-auth-library": "^8.9.0",
+    "googleapis": "^105.0.0"
+  }
+}
